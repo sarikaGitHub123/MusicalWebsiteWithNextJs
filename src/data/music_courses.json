@@ -1,0 +1,34 @@
+{
+    "Courses":[
+        {
+            "id":1,
+            "title":"Guitar Fundamentals",
+            "slug":"guitar-fundamentals",
+            "description":"Musical Course",
+            "price":99.99,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image": "../../assets/Images/guitarPhoto.jpeg"
+        },
+        {
+            "id":2,
+            "title":"Piano Fundamentals",
+            "slug":"piano-fundamentals",
+            "description":"Musical Course",
+            "price":99.99,
+            "instructor":"John Piano",
+            "isFeatured":true,
+            "image": "../../assets/Images/Piano.jpg"
+        },
+        {
+            "id":3,
+            "title":"Tabla Fundamentals",
+            "slug":"tabla-fundamentals",
+            "description":"Musical Course",
+            "price":99.99,
+            "instructor":"John Tabla",
+            "isFeatured":true,
+            "image": "../../assets/Images/Tabla.jpeg"
+        }
+    ]
+}
